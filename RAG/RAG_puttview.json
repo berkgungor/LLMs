@@ -1,0 +1,416 @@
+{
+  "teiHeader": {
+    "profileDesc": {
+      "abstract": {
+        "div": {
+          "title": "  Guide",
+          "content": [
+            " offers a 360° solution for all your needs. For Indoors, this is achieved with a projector and a tracking unit that makes every aspect of a putt visible turning your green into an interactive learning platform. Outdoor brings every green in the world to life, and with  Books, you'll be ahead of the pack at tournaments.",
+            " Indoor can be installed in combination with one of our  greens, or on any pre-existing green. The Augmented Reality system projects every aspect of a putt onto the green and enables true interaction with anything that is happening infront of you. The tablet, which comes with every system, lets you control and amend all visuals, while the Ball Tracking technology adds an additional layer of real-time feedback.",
+            " Indoor will revolutionize your  game and the way you perceive . Stop being bored while practicing and learn to understand the impact of read, line, and speed. The  Indoor product range offers the right system for beginners and pros alike, in all sizes and shapes. This is where the guesswork ends and the fun begins.",
+            " Indoor is an Augmented Reality (AR) based system which overlays information onto the green that could otherwise not be seen. A projector illustrates every aspect of a putt directly onto the green allowing you to finally have an intuitive and engaging way to practice your . Located above the projector is a Ball Tracking camera, which tracks your ball in real-time. This technology provides you with valuable data and insights into your intentions in relation to your actual putt.",
+            "The software is highly flexible and can be amended to your personal and individual ways of learning, visualizing and practicing. The tablet, which comes with every system, lets you control all features and visuals of  with the touch of your finger. Change the color of the lines, add or deactivate various visuals, practice predefined drills, or simply play interactive games. But be careful, this can become addicting very fast!"
+          ]
+        }
+      }
+    }
+  },
+  "text": {
+    "@lang": "en",
+    "body": {
+      "div": [
+        {
+          "title": "Section 1 :  Basics",
+          "content": [
+            " is often considered the most important part of the golf game, accounting for nearly half of a golfer's strokes during a round. Mastering the fundamentals of  can drastically lower scores and increase enjoyment of the game. Indoor  practice allows golfers to develop proper technique, consistency, and confidence on the greens.",
+            "While driving distance and accurate iron play receive a lot of attention, the best way to improve your scores is through better . Sinking more putts leads to fewer 3-putts, fewer penalty strokes, and more stress-free pars. Developing a repeatable stroke and reading greens effectively are skills that all golfers should continuously refine.",
+            "Practicing putts on an indoor  green allows you to groove your setup, grip, alignment, stroke mechanics, and green reading. Dedicated  practice eliminates waiting on tee boxes or fairways and makes efficient use of your time. The muscle memory developed from quality reps will pay off when you get out on the actual course. This article will cover the essential  fundamentals and practice approaches that golfers of all skill levels can apply during indoor sessions. Master these core techniques first before moving on to more advanced lessons. With the proper fundamentals and focused practice, you can become a deadly putter and lower your scores this season."
+          ]
+        },
+        {
+          "title": {
+            "@n": "1.",
+            "#text": "Proper  Stance"
+          },
+          "content": "A proper  stance is crucial for developing a consistent stroke and improving your ability to read greens and control distance. Focus on three key elements of stance:"
+        },
+        {
+          "title": {
+            "@n": "2.",
+            "#text": "Feet Positioning"
+          },
+          "content": "Your feet should be positioned shoulder-width apart, with your toes flared outward slightly. Keep your weight evenly distributed between the balls of your feet and your heels. Avoid standing flat-footed.  setup visual helps you to position your feet properly."
+        },
+        {
+          "title": {
+            "@n": "3.",
+            "#text": "Knee Bend"
+          },
+          "content": "Maintain a slight bend in your knees to allow for an athletic, balanced stance. Avoid locking your knees, which restricts mobility. The degree of knee bend can vary based on personal preference and flexibility. Generally a 15-30 degree bend is ideal."
+        },
+        {
+          "title": {
+            "@n": "4.",
+            "#text": "Posture"
+          },
+          "content": [
+            "Stand upright with a straight back, avoiding slouching. Tilt slightly from the hips with your arms hanging down naturally. Your head should be steady in a comfortable position above the ball. Having good posture lends itself to a pendulum-like  stroke.",
+            "Proper alignment of your feet, knees, and posture sets up the foundation for an effective  stroke. Experiment to find the optimal stance based on your body type and flexibility. Consistency in stance will lead to consistency in your ."
+          ]
+        },
+        {
+          "title": {
+            "@n": "5.",
+            "#text": "Grip"
+          },
+          "content": "A proper  grip is essential for good  technique and consistency. There are a few key considerations when gripping the putter:"
+        },
+        {
+          "title": {
+            "@n": "5.1",
+            "#text": "Types of Putter Grips"
+          },
+          "content": "Standard grip: This is the most common grip seen. Place both thumbs and index fingers down the center of the grip. Reverse overlap grip: The pinky finger of the dominant hand overlaps the index finger of the non-dominant hand. Provides more stability. Left hand low: The left hand sits lower on the grip than the right. Helps eliminate a rightward push. Split grip: The hands are separated several inches on the grip. Reduces wrist action."
+        },
+        {
+          "title": {
+            "@n": "5.2",
+            "#text": "Proper Hand Placement"
+          },
+          "content": "Grip the putter light enough to feel the weight of the head but not too light that it twists or turns on impact. The hands work together, so don't grip too tight with one hand over the other. Place the hands forward in the palms to promote a swinging pendulum motion rather than a jerking, wristy stroke. Keep the hands close together in the lower-to-middle part of the grip. This allows the shoulders to turn more freely."
+        },
+        {
+          "title": {
+            "@n": "6.",
+            "#text": "Alignment"
+          },
+          "content": "Proper alignment is critical for consistent . There are two main elements to focus on for proper alignment:"
+        },
+        {
+          "title": {
+            "@n": "7.",
+            "#text": "Aiming at the Target"
+          },
+          "content": [
+            "When setting up, you first want to aim your body at the intended target. Stand behind the ball, facing the hole. Then take your stance, positioning your feet, hips and shoulders parallel left of the target line.",
+            "Be sure your eyes are directly over the ball, perpendicular to the target line. Pick a spot on the line about a foot beyond the hole to focus on. This will help you align your body properly and aim directly at the target."
+          ]
+        },
+        {
+          "title": {
+            "@n": "8.",
+            "#text": "Squaring the Clubface"
+          },
+          "content": [
+            "Once your body is aligned to the target, you need to square the clubface to match. If the clubface is aimed left or right of your target line, the ball will start off-line and miss.",
+            "First, place the putter behind the ball, aligned with your body. Then rotate the face of the club so it's perpendicular to the target line. You can double check by holding the shaft vertically and ensuring the face points at your intended target.",
+            "With both your body and the clubface aligned to the target, you'll give the ball a better chance of rolling on-line and dropping in the hole. Consistent alignment creates consistent results."
+          ]
+        },
+        {
+          "title": {
+            "@n": "9.",
+            "#text": "Backswing"
+          },
+          "content": [
+            "The length of the backswing is critical for proper  technique and accuracy. When taking the club back, use a smooth, pendulum-like motion that is not too short or too long.",
+            "The ideal backswing length is approximately half the length of a full swing. Taking the putter back just 6-12 inches is typically recommended for short putts within 10 feet. For longer putts, a slightly longer backswing of 12-18 inches can help generate more power. Avoid a backswing that is too short, as this will reduce the acceleration through impact and weaken the stroke. Keeping the backswing compact also increases the chance of decelerating or \"steering\" the putter head on the downswing. Conversely, an overly long, exaggerated backswing will make it challenging to control the putter face through impact. This can lead to inconsistent putter face angle and directional errors. Use a smooth, rhythmic motion like a pendulum to take the putter back and forward. This promotes better tempo and a more reliable, repetitive stroke. Resist any abrupt or jerky movements. The pivot of your body should match the arc of the backswing. Let your shoulders rotate naturally so the putter swings along the intended target line. Don't sway laterally or manipulate the putter in an unnatural arc.",
+            "Overall, focus on making a smooth, pendulum-like backswing of the appropriate length for the distance of the putt. This will ingrain a repeatable stroke path and help control face angle for improved accuracy."
+          ]
+        },
+        {
+          "title": {
+            "@n": "10.",
+            "#text": "Putter Types"
+          },
+          "content": "When it comes to putters, there are two main styles -blade and mallet putters. The key differences between the two come down to alignment, forgiveness, and feel."
+        },
+        {
+          "title": {
+            "@n": "10.1",
+            "#text": "Blade Putters"
+          },
+          "content": "Blade putters have a classic, sleek design. The putter head is relatively small from front to back and does not have perimeter weighting. Blade putters offer great feel and control, allowing skilled players to shape putts by opening or closing the face. However, they offer less forgiveness on mis-hits compared to mallet putters. Blade putters are best suited for golfers with straight, consistent strokes. Some characteristics of blade putters:"
+        },
+        {
+          "title": {
+            "@n": "10.2",
+            "#text": "Mallet Putters"
+          },
+          "content": [
+            "Mallet putters have a larger, heel-toe weighted head. This wider design makes them much more forgiving than blade putters. The perimeter weighting in mallet putters increases the MOI (moment of inertia), reducing twisting on off-center hits.",
+            "Mallet putters also allow for better alignment. Many have lines, dots, or other aids to help golfers line up putts accurately. The larger head is helpful for golfers who struggle with consistency and hitting the sweet spot. Some characteristics of mallet putters: Section 2 : Aspects of  practice 1-Stance : In  practice, it's crucial to establish a consistent and comfortable stance. This involves setting the feet shoulder-width apart, aligning them parallel to the target line, and ensuring a slight bend in the knees. A stable and balanced stance provides a solid foundation for a controlled  stroke."
+          ]
+        },
+        {
+          "title": "2-Line :",
+          "content": [
+            "The line is all about the intended path the ball should take to reach the hole.",
+            "During  practice, golfers focus on aligning the putter face to this desired line. This involves careful aim and precision to ensure that the ball starts on the correct path.",
+            "3-Speed : Speed control is a critical aspect of  practice, emphasizing how hard or soft a golfer strikes the ball. Practicing various distances and green speeds helps golfers develop a consistent feel for how much force to apply to achieve the desired putt length. It involves refining touch and judgment to adapt to different green conditions."
+          ]
+        },
+        {
+          "title": "4-Green :",
+          "content": "The green itself plays a significant role in  practice. Golfers need to consider the contours, slopes, and undulations of the green when practicing putts. This involves reading the green effectively to anticipate how it will influence the ball's roll. Different green conditions, such as fast or slow speeds, require adjustments in approach."
+        },
+        {
+          "title": "Influencing green speed factors",
+          "content": [
+            "Stimpmeter is the unit that green speed is measured. It is an international unit and if you know the stimpmeter of the course you play on, it will help you get an understanding of different speed. In general, fast greens are obtained by shorter, more frequent cuts, dry conditions, low friction on the greens, and dense, compound ground conditions. Maintaining those conditions can come at high costs. Not only financially, but also for the entire course. While prepping greens for higher speed, you also put high stress on the greens. Therefore, making them more vulnerable to diseases, bugs and other damage and increasing inconsistency on the golf course, meaning the speed changes from green to green increase. 's contour lines and slope percentages give you a better understanding of green-reading.",
+            "Section 3 :  Indoor Features 1  Visuals for Green Reading"
+          ]
+        },
+        {
+          "title": {
+            "@n": "1.1",
+            "#text": "Contour Lines"
+          },
+          "content": [
+            "Contour line visual is used for green reading, topography understanding and break reading.",
+            "All slopes on the green are illustrated like a topographical map. The lines connect points of equal elevation and enable you to quickly identify the slopes of the green. The Contour Lines help you understand the impact of gravity on the ball and to help you read breaks better on the course."
+          ]
+        },
+        {
+          "title": {
+            "@n": "1.2",
+            "#text": "Slope Arrows"
+          },
+          "content": [
+            "Slope Arrows visual is used for green reading, green slope understanding and break direction.",
+            "The arrows indicate the direction of break on the green which is the direction that your ball will break. This helps you get a feel for the slope of the green and increase your ability to appreciate break."
+          ]
+        },
+        {
+          "title": {
+            "@n": "1.3",
+            "#text": "Slope Percentage"
+          },
+          "content": [
+            "Slope percentage visual is used for green reading, green slope and break reading understanding.",
+            "Slope percentage is Another way to visualize the amount of break infront of you, this feature identifies slope percentage throughout the green. This is ideal for users of the Aimpoint method or golfers who are looking to fine tune their feel on the green."
+          ]
+        },
+        {
+          "title": {
+            "@n": "2",
+            "#text": " Visuals for Line"
+          },
+          "content": "There is more than one way to hole a putt. With different speeds, a putt will break differently and hence it becomes important to understand the interdependence between line and speed. The following features will help you identify the right line for you."
+        },
+        {
+          "title": {
+            "@n": "2.1",
+            "#text": "Ideal Line"
+          },
+          "content": "Ideal line visual is a useful tool for ideal path visualization. It helps to See where you have to aim and focus on starting the ball on your intended line. Depending on your speed preferences, the Ideal Line can be amended to match the speed that feels right for you. Once you were able to match the speed with your intended line, the impact of break will take care of the rest as your ball follows the Ideal Line into the hole. This feature is perfect for improving your ability to match line and speed!"
+        },
+        {
+          "title": {
+            "@n": "2.2",
+            "#text": "Aiming Line"
+          },
+          "content": "Aiming line helps to see where you have to aim at and align yourself accordingly. This gives you the ability to fully focus on starting the ball on your intended line. If you are able to do that and also match it with the intended speed, you can watch your ball roll into the hole. By amending the speed options you can also watch how the Aiming Line changes depending on your intentions. This will help you get a better understanding of the impact of speed on the line you pick."
+        },
+        {
+          "title": {
+            "@n": "2.3",
+            "#text": "Setup Line"
+          },
+          "content": "The Setup Lines help you to check on your alignment and posture. Adjust and customize the lines to your preferences once before practice and use the visuals to check if your alignment and posture are consistent throughout. Having the same starting position for each stroke helps you to perfect your routine and get more consistent results on the green."
+        },
+        {
+          "title": {
+            "@n": "2.4",
+            "#text": "Visual Cues"
+          },
+          "content": "Visual Cues allow you to partially or completely turn certain parts of the visual guides on or off. By customizing the Visual Cues, you can find out what visuals (e.g., Rolling Balls, animated Ideal Line etc.) help you best to focus on specific areas of your training. You can also increase difficulty stepwise by taking away certain visuals to see how your skills progress as you putt with or without the Ideal Line, Aiming Line. or Contour Lines."
+        },
+        {
+          "title": {
+            "@n": "3",
+            "#text": " Visuals for Speed Control"
+          },
+          "content": [
+            "Speed control is the most difficult skill set to acquire because it can not be seen.",
+            "However, it has a severe impact on the outcome of your putt. Understanding how speed relates to your intended line and the impact it has on your putt is vital to holing out more often.  gives you the unique opportunity to fully focus on your speed control."
+          ]
+        },
+        {
+          "title": {
+            "@n": "3.1",
+            "#text": "Swing Guide"
+          },
+          "content": [
+            "Swing Guide visual helps you to have a pre-shot routine and consistent swings for .",
+            "A pendulum demonstrates the swing of your club and can be adjusted to your speed. The animated swing is perfect to develop a feeling for the rhythm and power of a putt to get a more consistent stroke."
+          ]
+        },
+        {
+          "title": {
+            "@n": "3.2",
+            "#text": "Speed Animation"
+          },
+          "content": [
+            "Speed animation is a visual representation of rolling balls. It shows the ideal ball speed and helps you to improve your speed control and touch.",
+            "Picturing the line the ball takes is one thing, getting the speed right is another. Animate the Ideal Line on the green to develop a better feeling for the intended speed. Engrain the ball speed in your mind's eye to help you match it outside on the course."
+          ]
+        },
+        {
+          "title": {
+            "@n": "3.3",
+            "#text": "Speed Corridor"
+          },
+          "content": "The Speed Corridor provides you with an image of all possible putts anywhere from deadweight speed to 3ft past. This feature is a great way to learn just how many possibilities depending on speed you have in order to hole a putt. Use that image to find out what line you feel most comfortable with or try to hit each line on the first try."
+        },
+        {
+          "title": {
+            "@n": "3.4",
+            "#text": "Power"
+          },
+          "content": [
+            "Power feature of  helps you with aggressiveness and speed control. Not all putts require the same level of aggressivness. While you might prefer to hit a firm putt on shorter distances, you might also prefer to just lag your putt towards the hole on longer distances. This is also the reason, why you need to be able to adjust your speed control. This feature lets you adjust the power from deadweight speed to 3ft past to practice different speeds. Playing the same putt at different speeds and seeing the changes in your Ideal Line is a great way to develop a more versatile speed control.",
+            "4  Visuals for personal use"
+          ]
+        },
+        {
+          "title": {
+            "@n": "4.1",
+            "#text": "Ball Tracking"
+          },
+          "content": "'s technology tracks your played putt, draws the actual path on the green in real-time and saves your  data to your account. Compare your intention to the actual putt, analyze your tendencies and track your performance over time."
+        },
+        {
+          "title": {
+            "@n": "4.2",
+            "#text": "Statistics Dashboard"
+          },
+          "content": "The Dashboard gives you an overview of all played putts and your performance over time. Use the stats to find out your weaknesses and grow your game!"
+        },
+        {
+          "title": {
+            "@n": "4.3",
+            "#text": "Analyze"
+          },
+          "content": "With the analyze screen, you can dive deep into your  stats. With metrics for distance, direction, launch speed, and slope, you can easily identify your strengths and weaknesses. Since all your putt data is saved, you can also reply any putt you ever hit and compare it to the ideal line or any  visual aid."
+        },
+        {
+          "title": {
+            "@n": "4.4",
+            "#text": "Shot Pattern"
+          },
+          "content": "You can see the dispersion of your played putts in the shot pattern and check for your most common mistakes. With the Shot Pattern you can see exactly if you tend to play too short, too long, to the left or to the right."
+        },
+        {
+          "title": {
+            "@n": "4.5",
+            "#text": "Sketch Mode"
+          },
+          "content": "You can draw and sketch on the green to create your own  templates, drills or other fun stuff onto the green. Let your creativity run free! With the Sketch Mode you can draw your own exercises directly onto the green without having to place any real obstacles on the green such as tees, hoops, balls or ghost holes."
+        },
+        {
+          "title": {
+            "@n": "4.6",
+            "#text": "Customization option"
+          },
+          "content": "You can adjust all your lines in  regarding width, color and brightness. Customize the visuals on the green according to your preferences to effectively match the visuals with the picture you have in your mind."
+        },
+        {
+          "title": {
+            "@n": "5",
+            "#text": " Games"
+          }
+        },
+        {
+          "title": {
+            "@n": "5.1",
+            "#text": "PuttPong"
+          },
+          "content": [
+            "PuttPong is a multiplayer party game that helps you to improve your distance control.",
+            "Hit the cups of your opponent and compete against each other. No matter if you are a beginner or an avid golfer, this game guarantees a fun time for everyone."
+          ]
+        },
+        {
+          "title": {
+            "@n": "5.2",
+            "#text": "Maze"
+          },
+          "content": "Maze is a fun game that requires precision and time management. Putt through the Maze and stay focused while the while the clock is ticking. Plan your next move well in advance or you have to start all over again. This is a fun way to practice, especially, but not limited, to kids."
+        },
+        {
+          "title": {
+            "@n": "5.3",
+            "#text": "Shooter"
+          },
+          "content": "Shooter is a cool game that helps you to practice speed and distance control together. Hit as many targets as possible while playing against the clock -Single or Multiplayer with your friends. You will not even notice that you are practicing speed and directional control because you are so focussed on making the next target explode."
+        },
+        {
+          "title": {
+            "@n": "5.4",
+            "#text": "Splash"
+          },
+          "content": "Splash helps you to improve your distance control. In ‚Splash!' it is all about popping as many bubbles as you can with a limited amount of putts. Be smart about which shapes you are trying to hit next, as they just might form a group and all pop at the same time."
+        },
+        {
+          "title": {
+            "@n": "5.5",
+            "#text": "Tic-Tac-Toe"
+          },
+          "content": [
+            "Tic tac toe is a great game for distance and speed control practice.  brought this childhood classic onto the green. Simply choose X or O and start playing against your friends. Just like you remember, you need to make a row of three either vertically, horizontally, or diagonally. Enjoy this game with your friends and see who has the best speed and distance control.",
+            "Sometimes you just don't feel like thinking about what or how to practice. Or, you just want to do some standard  drills. That's were our practices and drills come in. Those pre-defined setups and drills help you get some efficient practice in, without having to come up with your own ideas."
+          ]
+        },
+        {
+          "title": {
+            "@n": "6.1",
+            "#text": "Ladder Drills"
+          },
+          "content": "Ladder drills are an effective way to enhance  skills by focusing on distance control and precision. You start with short distance putts and  will increase the distance as long as you hit the hole. The rhythmic repetition of ladder drills refines muscle memory and helps golfers develop a feel for different  distances on the green."
+        },
+        {
+          "title": {
+            "@n": "6.2",
+            "#text": "Straight Putts"
+          },
+          "content": "Straight putt drills concentrate on mastering the fundamentals of alignment, posture, and stroke. Focus on keeping the putter face square to the target line, refining your aim and ensuring a straight follow-through. Consistent practice with straight putts reinforces muscle memory, cultivating a reliable and repeatable  stroke."
+        },
+        {
+          "title": {
+            "@n": "6.3",
+            "#text": "Star Drills"
+          },
+          "content": "Start drills are designed to improve a golfer's ability to read and navigate the break of a green. This drill enhances a player's green-reading skills, fostering a better understanding of how a putt will behave based on the contours of the terrain. Mastering start drills empowers golfers to visualize and execute more accurate putts, particularly on greens with subtle slopes and undulations."
+        },
+        {
+          "title": {
+            "@n": "6.4",
+            "#text": "Rolling Balls"
+          },
+          "content": "Rolling Balls shows an ideal ball motion to hit the hole, which helps to practice controlling the speed of your putts. It is also useful for line imagination and distance control."
+        },
+        {
+          "title": {
+            "@n": "6.5",
+            "#text": "Random Putts"
+          },
+          "content": "Random putts exercise helps you to handle pressure putts and practice your distance control from various points.Doing random exercises helps you develop a routine, but out on the course you have to be ready for various speeds and distances. Use this Practice Mode and  will give you random putts from various distances with only one chance to make it."
+        },
+        {
+          "title": {
+            "@n": "6.6",
+            "#text": "Challenge Zone"
+          },
+          "content": "Challenge zone is a great exercise for distance control. The goal is to play as many consecutive putts as possible. All you need to do is to putt the subsequent putt shorter than the previous one. This challenge will intrinsically practice your speed control."
+        }
+      ]
+    },
+    "back": {
+      "div": {
+        "@type": "references",
+        "listBibl": null
+      }
+    }
+  }
+}

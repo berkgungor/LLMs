@@ -1,0 +1,31 @@
+body {
+    background-color: #ffffff; /* White background color */
+    font-family: sans-serif; /* Use a sans-serif font */
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .button {
+    margin-right: 120px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px 60px;
+    background-color: #6db3db; /* Blue button color */
+    border: none;
+    color: #ffffff; /* White text color */
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  }
